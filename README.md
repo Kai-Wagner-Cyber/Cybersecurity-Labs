@@ -14,6 +14,11 @@ The focus is on understanding how security controls affect attacker visibility, 
 - Identity & Access Management
 - Cloud Security (planned)
 
+- ## Lab Index
+
+### Network Reconnaissance
+[Lab 01 (Jan 2026): Nmap Reconnaissance vs Windows Firewall](labs/network-recon)
+
 ## Environment
 - VirtualBox
 - Kali Linux (attacker)
