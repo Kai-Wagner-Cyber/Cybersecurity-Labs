@@ -28,7 +28,7 @@ having the firewall up may not stop all the information for being obtained but i
 ---
 
 ## Commands Used
-code used: nmap -sS -sV -O 192.168.56.102
+code used: nmap -sS -sV -O 192.168.56.103
 
 ## Next Steps
 - Run scan with `-Pn` to compare firewall behavior
