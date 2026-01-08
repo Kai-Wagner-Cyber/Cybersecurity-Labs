@@ -14,12 +14,12 @@ To observe how Windows Firewall affects network reconnaissance using Nmap from a
 
 ## Without firewall:
 when running nmap againt a computer without a firewall the Nmap completed almost instantly and returned a large amount of host and service information.
-
+![Nmap scan with firewall disabled](screenshots/nmap-firewall-off-win10-scan-results.png)
 ---
 
 ## With firewall:
 with the firewall up the nmap appeared to stall during the initial probaing this continued for approximately 3 minutes when the nmap finally finished only a small amount of information was recived compared to the amount recived without the firewall.
-
+![Nmap scan with firewall enabled](screenshots/nmap-firewall-on-win10-filtered-ports.png)
 ---
 
 ## Conclusion:
